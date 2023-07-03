@@ -1,0 +1,20 @@
+{
+    "cups": [
+        {
+            "name": "Black ninja",
+            "desc": "the black coffee cup with a neutral soft side ",
+            "id": 1,
+            "image_url": "https://i.postimg.cc/MGFj8Xvg/cofee-3.png",
+            "price": 75
+        },
+        {
+            "name": "the all neutral cup",
+            "desc": "the all neutral coffee cup that matches any energy  ",
+            "id": 2,
+            "image_url": "https://i.postimg.cc/cHKmYVpt/cofee-2.png",
+            "price": 85
+        }
+   
+
+    ]
+}
