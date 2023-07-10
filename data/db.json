@@ -4,17 +4,44 @@
             "name": "Black ninja",
             "desc": "the black coffee cup with a neutral soft side ",
             "id": 1,
-            "image_url": "https://i.postimg.cc/MGFj8Xvg/cofee-3.png",
-            "price": 75
+            "image_url": "https://i.postimg.cc/cHKmYVpt/cofee-2.png",
+            "price": 45
         },
         {
             "name": "the all neutral cup",
             "desc": "the all neutral coffee cup that matches any energy  ",
             "id": 2,
-            "image_url": "https://i.postimg.cc/cHKmYVpt/cofee-2.png",
-            "price": 85
+            "image_url": "https://i.postimg.cc/hjp8WJ4W/coffee-menu.png",
+            "price": 42
+        },
+        {
+            "name": "White Classic",
+            "desc": "the all white coffee cup that screams peace   ",
+            "id": 3,
+            "image_url": "https://i.postimg.cc/TY8t5mYG/cofee-4.png",
+            "price": 40
+        },
+        {
+            "name": "DarkCup",
+            "desc": "The one cup that has the I CAN DO THIS type of vibe",
+            "id": 4,
+            "image_url": "https://i.postimg.cc/MGFj8Xvg/cofee-3.png",
+            "price": 35
+        },
+                {
+            "name": "Peace + content",
+            "desc": "the peace kind of person who chooses themselves ",
+            "id": 5,
+            "image_url": "https://i.postimg.cc/13sMJQqj/cofee-5.png",
+            "price": 32
+        },
+                {
+            "name": "content + a little bit of dark",
+            "desc": "the content kind of person with that hidden evil  ",
+            "id": 6,
+            "image_url": "https://i.postimg.cc/bvvgf9L0/cofee-6.png",
+            "price": 38
         }
-   
 
     ]
 }
